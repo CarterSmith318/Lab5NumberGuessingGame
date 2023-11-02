@@ -1,0 +1,6 @@
+﻿  Lab5.cpp
+C:\Users\carte\OneDrive\Cplusplus\neoguessgame\neoguessgame\header.cpp(13,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  header.cpp
+C:\Users\carte\OneDrive\Cplusplus\neoguessgame\neoguessgame\header.cpp(13,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  neoguessgame.vcxproj -> C:\Users\carte\OneDrive\Cplusplus\neoguessgame\x64\Debug\neoguessgame.exe
